@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
