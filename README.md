@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
