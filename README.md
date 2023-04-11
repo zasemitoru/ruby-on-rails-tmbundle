@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
