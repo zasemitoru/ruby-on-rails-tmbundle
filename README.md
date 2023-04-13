@@ -1,1 +1,1 @@
-add logs
+Remove unused variables (#8511)
