@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Auto-format by https://ultralytics.com/actions
