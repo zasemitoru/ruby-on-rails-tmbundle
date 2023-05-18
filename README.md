@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+YOLOv8 INT8 TFLite Inference Example (#7317)
