@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update HTTP to HTTPS (#7548)
