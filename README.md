@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Move Explorer tests to scheduled CI (#8305)
