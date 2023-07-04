@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
