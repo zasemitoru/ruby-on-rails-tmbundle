@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update CITATION.cff with cffinit corrections (#8658)
