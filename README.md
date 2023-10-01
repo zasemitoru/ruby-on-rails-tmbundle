@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
