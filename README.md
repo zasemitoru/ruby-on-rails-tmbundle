@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
