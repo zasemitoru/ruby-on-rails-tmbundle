@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
