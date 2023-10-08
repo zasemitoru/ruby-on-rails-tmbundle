@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update mkdocs.yml (#7693)
