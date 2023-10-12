@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
