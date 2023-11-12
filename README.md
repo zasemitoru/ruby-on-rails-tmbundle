@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Move Explorer tests to scheduled CI (#8305)
