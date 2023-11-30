@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Docs updates and improvements (#8183)
