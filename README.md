@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Improve Docs Modes tables (#8266)
