@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Avoid creating -hub dir without processing images (#8334)
