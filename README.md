@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Python refactorings and simplifications (#7549)
