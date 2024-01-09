@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
