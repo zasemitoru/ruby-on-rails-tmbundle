@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Update Colab notebook for YOLOv8.1 (#8660)
