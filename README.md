@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add YOLOv8 LibTorch C++ inference example (#7090)
