@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
