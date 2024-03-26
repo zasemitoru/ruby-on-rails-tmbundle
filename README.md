@@ -1,1 +1,1 @@
-fix val each epoch
+Add PR Summary step to Ultralytics Actions (#7675)
