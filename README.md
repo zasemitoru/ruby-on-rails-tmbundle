@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add Weights & Biases Docs integrations page (#7199)
