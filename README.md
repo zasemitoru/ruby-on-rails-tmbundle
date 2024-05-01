@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Batch inference fixes (#8854)
