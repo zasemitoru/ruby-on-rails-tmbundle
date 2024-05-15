@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
