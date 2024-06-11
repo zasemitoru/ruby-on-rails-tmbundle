@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
