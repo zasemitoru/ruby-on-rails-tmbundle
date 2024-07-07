@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add docs guide terminal images (#8819)
