@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+TensorRT FP16 export with dynamic=True (#7870)
