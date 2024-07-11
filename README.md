@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
