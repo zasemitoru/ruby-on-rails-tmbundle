@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update mkdocs.yml (#7693)
