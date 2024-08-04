@@ -1,1 +1,1 @@
-fix print val map
+docs: update view-results-in-terminal.md (#66)
