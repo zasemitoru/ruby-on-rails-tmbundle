@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
