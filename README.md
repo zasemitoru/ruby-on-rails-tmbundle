@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
