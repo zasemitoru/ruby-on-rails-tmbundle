@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Fix Neural Magic links (#9144)
