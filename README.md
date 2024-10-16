@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Update Discord and Contributing Guide URLs (#9270)
