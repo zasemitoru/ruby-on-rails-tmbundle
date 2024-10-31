@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
